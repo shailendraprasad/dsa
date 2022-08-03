@@ -1,4 +1,4 @@
-package com.shailendra.datastructure.array;
+package com.shailendra.datastructure;
 
 import java.util.Iterator;
 
